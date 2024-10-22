@@ -1,11 +1,1 @@
-- 👋 Hi, I’m @Ls Pain
-- 👀 I’m interested in Fullstack Web Dev
-- 🌱 I’m currently learning Frontend developing
-- 💞️ I’m looking to collaborate on Web design Project
-- 📫 How to reach me fortheboys336@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Ls- corps 
---->
+<a href="https://app.daily.dev/andrewpeter47"><img src="https://api.daily.dev/devcards/v2/1ew5Ao3MGcHkLwKWpeDp1.png?type=default&r=by2" width="356" alt="Ls Pain's Dev Card"/></a>
